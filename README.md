@@ -8,7 +8,7 @@
 > Understanding Single threaded event loop, V8 and Libuv libraries
 
 
-<img src="nodesystem.png"></img>
+<img src="https://github.com/N0v0cain3/HowNodeWorks/blob/master/nodesystem.PNG"></img>
 
 
 ---
