@@ -17,26 +17,6 @@
 
 
 
-
-## Features
-
-
-
-
-
-## Screenshots
-
-
-## Instructions to run
-
-```
-$ git clone https://github.com/N0v0cain3/<Project>
-$ cd <Project>
-$ node app.js
-  or
-$ npm run dev
-```
-
 ## Contributors
 - <a href="https://github.com/N0v0cain3">Shivam Mehta</a>
 
